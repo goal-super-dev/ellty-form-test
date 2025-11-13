@@ -106,8 +106,7 @@ npx live-server
 🌐 Deployment
 Deployed using GitHub Pages.
 
-Live URL:
-👉 https://goal-super-dev.github.io/ellty-form-test/
+
 
 📋 Notes
 Component width: 370px
